@@ -7,10 +7,9 @@ A GenAI-powered web application using FastAPI, Google Gemini 1.5, and Jinja2 to 
 - **Project Demonstration Video:** [(https://drive.google.com/file/d/1pX-LwD_HoHozeppNYZJs81WQ-FvHT7YU/view?usp=drivesdk)]
 
 ## 👥 Team Members
-- **Magesh** (Team Lead)
-- **Mugunthan**
-- **Santhosh**
-- **Vasanth**
+- **SACHIN J** (Team Lead)
+- **KARTHICK S**
+- **S. YASHWANTH**
 
 ## 📁 SmartBridge Phase-Wise Structure
 - **Phase 1:** [Brainstorming & Ideation](Project_Phases/Phase_1_Brainstorming_and_Ideation.md)
